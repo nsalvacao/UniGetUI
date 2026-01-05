@@ -1,0 +1,2 @@
+# Initial Concept
+A solução já suporta diversos gestores de pacotes. Pretendo adicionar a gestão de pacotes pnpm, pipx e UV. Isto terá implicações em muitos locais do dashboard, das configurações, da atuação e funcionalidades, entre muitos outros. Não tenho a certeza, mas creio que o mais viável é investigar cuidadosamente outros gestores de pacotes suportados, perceber todas as implicações e dependências comuns a todos eles, todos os locais e funcionamento comuns a todos eles, e então replicar na medida do possível para estes 3 novos gestores de pacotes a suportar.
